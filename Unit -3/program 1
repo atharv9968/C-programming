@@ -1,4 +1,4 @@
-
+// sum of elements of a one - dimenstional array
 
 #include <stdio.h>
 
