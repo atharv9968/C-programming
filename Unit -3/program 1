@@ -1,4 +1,4 @@
-// sum of elements of a one - dimenstional array
+// Display array elementsand theur memory addresses
 
 #include <stdio.h>
 
