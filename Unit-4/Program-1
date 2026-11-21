@@ -1,6 +1,6 @@
 1. Student Details Using Structure
 
-#include &lt;stdio.h&gt;
+#include<stdio.h>
 
 struct Student
 {
