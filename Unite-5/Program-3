@@ -16,20 +16,20 @@ int main()
 int num1, num2;
 
 printf("Enter first number: ");
-scanf(&quot;%d&quot;, &num1);
+scanf("%d", &num1);
 
-printf(&quot;Enter second number: &quot;);
-scanf(&quot;%d&quot;, &amp;num2);
+printf("Enter second number:");
+scanf("%d", &num2);
 
-printf(&quot;\nBefore swapping:\n&quot;);
-printf(&quot;First number = %d\n&quot;, num1);
-printf(&quot;Second number = %d\n&quot;, num2);
+printf("\nBefore swapping:\n");
+printf("First number = %d\n", num1);
+printf("Second number = %d\n", num2);
 
-swap(&amp;num1, &amp;num2);
+swap(&num1, &num2);
 
-printf(&quot;\nAfter swapping:\n&quot;);
-printf(&quot;First number = %d\n&quot;, num1);
-printf(&quot;Second number = %d\n&quot;, num2);
+printf("\nAfter swapping:\n");
+printf("First number = %d\n", num1);
+printf("Second number = %d\n", num2);
 
 return 0;
 }
