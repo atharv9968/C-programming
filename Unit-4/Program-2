@@ -1,6 +1,6 @@
 2. Demonstration of Union and Shared Memory
 
-#include &lt;stdio.h&gt;
+#include<stdio.h>
 
 union Data
 {
